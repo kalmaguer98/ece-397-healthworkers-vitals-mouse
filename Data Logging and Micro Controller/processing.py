@@ -1,4 +1,3 @@
-#import the required libraries
 import processing.serial.115200;
 Serial mySerial;
 Table table;
